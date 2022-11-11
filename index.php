@@ -6,7 +6,7 @@
   include("head.php");
   ?>
 </head>
-
+ 
 <body>
   <div class="masthead">
     <?php
